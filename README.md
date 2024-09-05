@@ -1,8 +1,8 @@
-#build
-cd build
+# build
+```cd build```
 # linux
-cmake ..
-make -j
+```cmake ..
+make -j```
 # windows
-cmake -G "MinGW Makefiles" ..
-cmake --build .
+```cmake -G "MinGW Makefiles" ..
+cmake --build .```

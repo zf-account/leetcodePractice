@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/19ShanChuLianBiaoDeDaoShuDiNGeJieDian.dir/src/19ShanChuLianBiaoDeDaoShuDiNGeJieDian.cpp.o -o 19ShanChuLianBiaoDeDaoShuDiNGeJieDian 

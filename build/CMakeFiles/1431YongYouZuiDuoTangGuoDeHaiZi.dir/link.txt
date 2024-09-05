@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/1431YongYouZuiDuoTangGuoDeHaiZi.dir/src/1431YongYouZuiDuoTangGuoDeHaiZi.cpp.o -o 1431YongYouZuiDuoTangGuoDeHaiZi 

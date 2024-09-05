@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/21HeBingLiangGeYouXuLianBiao.dir/src/21HeBingLiangGeYouXuLianBiao.cpp.o -o 21HeBingLiangGeYouXuLianBiao 

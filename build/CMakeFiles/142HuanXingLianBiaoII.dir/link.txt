@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/142HuanXingLianBiaoII.dir/src/142HuanXingLianBiaoII.cpp.o -o 142HuanXingLianBiaoII 

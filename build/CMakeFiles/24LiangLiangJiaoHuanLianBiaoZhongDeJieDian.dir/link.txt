@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/24LiangLiangJiaoHuanLianBiaoZhongDeJieDian.dir/src/24LiangLiangJiaoHuanLianBiaoZhongDeJieDian.cpp.o -o 24LiangLiangJiaoHuanLianBiaoZhongDeJieDian 

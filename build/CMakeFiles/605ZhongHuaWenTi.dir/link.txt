@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/605ZhongHuaWenTi.dir/src/605ZhongHuaWenTi.cpp.o -o 605ZhongHuaWenTi 

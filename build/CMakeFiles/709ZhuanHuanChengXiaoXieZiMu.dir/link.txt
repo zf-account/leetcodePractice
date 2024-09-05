@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/709ZhuanHuanChengXiaoXieZiMu.dir/src/709ZhuanHuanChengXiaoXieZiMu.cpp.o -o 709ZhuanHuanChengXiaoXieZiMu 

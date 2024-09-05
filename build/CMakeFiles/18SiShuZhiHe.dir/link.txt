@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/18SiShuZhiHe.dir/src/18SiShuZhiHe.cpp.o -o 18SiShuZhiHe 

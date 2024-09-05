@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/43ZiFuChuanXiangCheng.dir/src/43ZiFuChuanXiangCheng.cpp.o -o 43ZiFuChuanXiangCheng 

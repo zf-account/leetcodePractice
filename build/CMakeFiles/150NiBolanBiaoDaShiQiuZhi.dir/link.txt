@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/150NiBolanBiaoDaShiQiuZhi.dir/src/150NiBolanBiaoDaShiQiuZhi.cpp.o -o 150NiBolanBiaoDaShiQiuZhi 

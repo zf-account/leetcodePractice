@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/239HuaDongChuangKouDeZuiDaZhi.dir/src/239HuaDongChuangKouDeZuiDaZhi.cpp.o -o 239HuaDongChuangKouDeZuiDaZhi 

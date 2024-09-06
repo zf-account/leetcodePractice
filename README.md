@@ -1,12 +1,14 @@
 # build
+
+## linux
 ```cd build```
-# linux
 ```
 cmake ..
 make -j
 
 ```
-# windows
+## windows
+```cd build```
 ```
 cmake -G "MinGW Makefiles" ..
 cmake --build .

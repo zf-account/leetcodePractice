@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/77.dir/src/77.ZuHe.cpp.o -o 77 

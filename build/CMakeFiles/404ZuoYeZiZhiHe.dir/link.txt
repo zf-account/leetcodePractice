@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/404ZuoYeZiZhiHe.dir/src/404ZuoYeZiZhiHe.cpp.o -o 404ZuoYeZiZhiHe 

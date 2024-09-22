@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/222WanQuanErChaShuDeJieDianGeShu.dir/src/222WanQuanErChaShuDeJieDianGeShu.cpp.o -o 222WanQuanErChaShuDeJieDianGeShu 

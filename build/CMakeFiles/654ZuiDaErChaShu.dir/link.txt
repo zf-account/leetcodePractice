@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/654ZuiDaErChaShu.dir/src/654ZuiDaErChaShu.cpp.o -o 654ZuiDaErChaShu 

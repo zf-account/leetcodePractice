@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/106CongZhongXuYuHouXuBianLiXuLieGouZaoErChaShu.dir/src/106CongZhongXuYuHouXuBianLiXuLieGouZaoErChaShu.cpp.o -o 106CongZhongXuYuHouXuBianLiXuLieGouZaoErChaShu 

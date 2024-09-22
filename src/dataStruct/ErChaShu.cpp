@@ -2,6 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <stack>
+#include <queue>
 
 using namespace std;
 
@@ -126,8 +127,100 @@ public:
         reverse(result.begin(),result.end());
         return result;
     }
+    // 广度优先：层序遍历
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        queue<TreeNode*> que;
+        vector<vector<int>> result;
+        if (root == nullptr)
+            return result;
+        que.push(root);
+        while (!que.empty()) {
+            int size = que.size();
+            vector<int> vec;
+            while (size--) {
+                TreeNode* node = que.front();
+                que.pop();
+                vec.push_back(node->val);
+                if (node->left)
+                    que.push(node->left);
+                if (node->right)
+                    que.push(node->right);
+            }
+            result.push_back(vec);
+        }
+        return result;
+    }
+
 };
 
+// 打印输出结果
+class printTreeNode
+{
+public:
+// 前序遍历打印
+    void printPreorderTraversal(TreeNode *root)
+    {
+        stack<TreeNode *> st;
+        vector<int> re;
+        if (root == nullptr)
+            return;
+        st.push(root);
+        while (!st.empty())
+        {
+            TreeNode *node = st.top();
+            st.pop();
+            re.push_back(node->val);
+            if (node->right)
+            {
+                st.push(node->right);
+            }
+            if (node->left)
+            {
+                st.push(node->left);
+            }
+        }
+        for (const int &i : re)
+        {
+            cout << i << " ";
+        }
+        cout << endl;
+    }
+    // 中序遍历打印
+    void inotraversal(TreeNode *root, vector<int> &re)
+    {
+        if (root == nullptr)
+            return;
+        inotraversal(root->left, re);
+        re.push_back(root->val);
+        inotraversal(root->right, re);
+    }
+    void printInorderTraversal(TreeNode *root)
+    {
+        vector<int> re;
+        inotraversal(root, re);
+        for (const int &i : re)
+        {
+            cout << i << " ";
+        }
+        cout << endl;
+    }
+    // 后续遍历打印
+    void postraversal(TreeNode *root, vector<int> & re){
+        if(root == nullptr)
+            return;
+            postraversal(root->left, re);
+            postraversal(root->right, re);
+            re.push_back(root->val);
+    }
+    void printPostorderTraversal(TreeNode *root){
+        vector<int> re;
+        postraversal(root, re);
+        for(const int &i : re){
+            cout << i << " ";
+        }
+        cout << endl;
+    }
+};
 int main(int argc, char const *argv[])
 {
     TreeNode *root = new TreeNode(1);
@@ -176,5 +269,15 @@ int main(int argc, char const *argv[])
         cout << i << " ";
     }
     cout << endl;
+    cout << "---------------------层序遍历-----------------------" << endl;
+    vector<vector<int>> LevelOrderTraversal = su.levelOrder(root);
+    for (const vector<int> &i : LevelOrderTraversal)
+    {
+        for (const int &j : i)
+        {
+            cout << j << " ";
+        }
+        cout << endl;
+    }
     return 0;
 }

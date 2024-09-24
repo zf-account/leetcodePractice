@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/977YouXuShuZuDePingFang.dir/src/977YouXuShuZuDePingFang.cpp.o -o 977YouXuShuZuDePingFang 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/977YouXuShuZuDePingFang.dir/src/977YouXuShuZuDePingFang.cpp.o -o 977YouXuShuZuDePingFang 

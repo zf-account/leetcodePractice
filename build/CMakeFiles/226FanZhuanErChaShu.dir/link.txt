@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/226FanZhuanErChaShu.dir/src/226FanZhuanErChaShu.cpp.o -o 226FanZhuanErChaShu 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/226FanZhuanErChaShu.dir/src/226FanZhuanErChaShu.cpp.o -o 226FanZhuanErChaShu 

@@ -131,7 +131,7 @@ all: CMakeFiles/707SheJiLianBiao.dir/all
 all: CMakeFiles/709ZhuanHuanChengXiaoXieZiMu.dir/all
 all: CMakeFiles/72BianJiJuli.dir/all
 all: CMakeFiles/73JuZhenZhiLing.dir/all
-all: CMakeFiles/77.dir/all
+all: CMakeFiles/77ZuHe.dir/all
 all: CMakeFiles/860NingMengShuiZhaoLing.dir/all
 all: CMakeFiles/88HeBingLiangGeYouXuShuZu.dir/all
 all: CMakeFiles/977YouXuShuZuDePingFang.dir/all
@@ -214,7 +214,7 @@ clean: CMakeFiles/707SheJiLianBiao.dir/clean
 clean: CMakeFiles/709ZhuanHuanChengXiaoXieZiMu.dir/clean
 clean: CMakeFiles/72BianJiJuli.dir/clean
 clean: CMakeFiles/73JuZhenZhiLing.dir/clean
-clean: CMakeFiles/77.dir/clean
+clean: CMakeFiles/77ZuHe.dir/clean
 clean: CMakeFiles/860NingMengShuiZhaoLing.dir/clean
 clean: CMakeFiles/88HeBingLiangGeYouXuShuZu.dir/clean
 clean: CMakeFiles/977YouXuShuZuDePingFang.dir/clean
@@ -1993,30 +1993,30 @@ CMakeFiles/73JuZhenZhiLing.dir/clean:
 .PHONY : CMakeFiles/73JuZhenZhiLing.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/77.dir
+# Target rules for target CMakeFiles/77ZuHe.dir
 
 # All Build rule for target.
-CMakeFiles/77.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/77.dir/build.make CMakeFiles/77.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/77.dir/build.make CMakeFiles/77.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles --progress-num=90 "Built target 77"
-.PHONY : CMakeFiles/77.dir/all
+CMakeFiles/77ZuHe.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/77ZuHe.dir/build.make CMakeFiles/77ZuHe.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/77ZuHe.dir/build.make CMakeFiles/77ZuHe.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles --progress-num=90 "Built target 77ZuHe"
+.PHONY : CMakeFiles/77ZuHe.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/77.dir/rule: cmake_check_build_system
+CMakeFiles/77ZuHe.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/77.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/77ZuHe.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles 0
-.PHONY : CMakeFiles/77.dir/rule
+.PHONY : CMakeFiles/77ZuHe.dir/rule
 
 # Convenience name for target.
-77: CMakeFiles/77.dir/rule
-.PHONY : 77
+77ZuHe: CMakeFiles/77ZuHe.dir/rule
+.PHONY : 77ZuHe
 
 # clean rule for target.
-CMakeFiles/77.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/77.dir/build.make CMakeFiles/77.dir/clean
-.PHONY : CMakeFiles/77.dir/clean
+CMakeFiles/77ZuHe.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/77ZuHe.dir/build.make CMakeFiles/77ZuHe.dir/clean
+.PHONY : CMakeFiles/77ZuHe.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/860NingMengShuiZhaoLing.dir

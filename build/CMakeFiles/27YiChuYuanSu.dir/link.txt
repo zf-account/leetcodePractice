@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/27YiChuYuanSu.dir/src/27YiChuYuanSu.cpp.o -o 27YiChuYuanSu 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/27YiChuYuanSu.dir/src/27YiChuYuanSu.cpp.o -o 27YiChuYuanSu 

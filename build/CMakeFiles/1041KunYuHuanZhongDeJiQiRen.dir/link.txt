@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/1041KunYuHuanZhongDeJiQiRen.dir/src/1041KunYuHuanZhongDeJiQiRen.cpp.o -o 1041KunYuHuanZhongDeJiQiRen 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/1041KunYuHuanZhongDeJiQiRen.dir/src/1041KunYuHuanZhongDeJiQiRen.cpp.o -o 1041KunYuHuanZhongDeJiQiRen 

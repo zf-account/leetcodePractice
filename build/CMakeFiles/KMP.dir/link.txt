@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/KMP.dir/src/SuanFaYuanLi/KMP.cpp.o -o KMP 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/KMP.dir/src/SuanFaYuanLi/KMP.cpp.o -o KMP 

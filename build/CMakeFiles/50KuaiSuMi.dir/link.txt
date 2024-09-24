@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/50KuaiSuMi.dir/src/50KuaiSuMi.cpp.o -o 50KuaiSuMi 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/50KuaiSuMi.dir/src/50KuaiSuMi.cpp.o -o 50KuaiSuMi 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/459ChongFuDeZiZiFuChuan.dir/src/459ChongFuDeZiZiFuChuan.cpp.o -o 459ChongFuDeZiZiFuChuan 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/459ChongFuDeZiZiFuChuan.dir/src/459ChongFuDeZiZiFuChuan.cpp.o -o 459ChongFuDeZiZiFuChuan 

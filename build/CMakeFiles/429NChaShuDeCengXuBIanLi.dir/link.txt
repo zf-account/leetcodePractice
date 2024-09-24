@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/429NChaShuDeCengXuBIanLi.dir/src/429NChaShuDeCengXuBIanLi.cpp.o -o 429NChaShuDeCengXuBIanLi 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/429NChaShuDeCengXuBIanLi.dir/src/429NChaShuDeCengXuBIanLi.cpp.o -o 429NChaShuDeCengXuBIanLi 

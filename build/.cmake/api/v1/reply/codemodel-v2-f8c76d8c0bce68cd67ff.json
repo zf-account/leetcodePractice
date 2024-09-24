@@ -1,0 +1,735 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "leetcodePracticeC++",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "101DuiChengErChaShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-101DuiChengErChaShu-25f6e9017dc148b1d129.json",
+					"name" : "101DuiChengErChaShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1041KunYuHuanZhongDeJiQiRen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1041KunYuHuanZhongDeJiQiRen-d02503f9c8df09d75c45.json",
+					"name" : "1041KunYuHuanZhongDeJiQiRen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1047ShanChuZiFuChuanZhongDeSuoYouXiangLinChongFuXiang::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1047ShanChuZiFuChuanZhongDeSuoYouXiangLinChongFuXiang-e2eb7cad8170e77d243e.json",
+					"name" : "1047ShanChuZiFuChuanZhongDeSuoYouXiangLinChongFuXiang",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "105CongQianXuYuZhongXuBianLiXuLieGouZaoErChaShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-105CongQianXuYuZhongXuBianLiXuLieGouZaoErChaShu-bb8c0397a2c58999cdc3.json",
+					"name" : "105CongQianXuYuZhongXuBianLiXuLieGouZaoErChaShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "106CongZhongXuYuHouXuBianLiXuLieGouZaoErChaShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-106CongZhongXuYuHouXuBianLiXuLieGouZaoErChaShu-93e730a2f1c5e7866899.json",
+					"name" : "106CongZhongXuYuHouXuBianLiXuLieGouZaoErChaShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1071ZiFuChuanZuiDaGongYueShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1071ZiFuChuanZuiDaGongYueShu-6b487140cadb0d977e9e.json",
+					"name" : "1071ZiFuChuanZuiDaGongYueShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "110PingHengErChaShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-110PingHengErChaShu-93a8c062043160dc1747.json",
+					"name" : "110PingHengErChaShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "116TianChongMeiGeJieDianDeXiaYiGeYouCeJieDianZhiZhen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-116TianChongMeiGeJieDianDeXiaYiGeYouCeJieDianZhiZhen-b31879b953c84c413714.json",
+					"name" : "116TianChongMeiGeJieDianDeXiaYiGeYouCeJieDianZhiZhen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "121MaiMaiGuPiaoDeZuiJiaShiJi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-121MaiMaiGuPiaoDeZuiJiaShiJi-17a1d06cd08f9cd9a0b1.json",
+					"name" : "121MaiMaiGuPiaoDeZuiJiaShiJi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1232ZhuiDianChengXian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1232ZhuiDianChengXian-892a559886a1a2f5ae0f.json",
+					"name" : "1232ZhuiDianChengXian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1275ZhaoChuJingZiQiDeHuoShengZhe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1275ZhaoChuJingZiQiDeHuoShengZhe-f35e7ebd74a24e53c7f7.json",
+					"name" : "1275ZhaoChuJingZiQiDeHuoShengZhe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13LuoMaShuZiZhuanZhengShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13LuoMaShuZiZhuanZhengShu-0d21b5242404df5764d9.json",
+					"name" : "13LuoMaShuZiZhuanZhengShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "142HuanXingLianBiaoII::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-142HuanXingLianBiaoII-e54e875a6ed155ff0b76.json",
+					"name" : "142HuanXingLianBiaoII",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1431YongYouZuiDuoTangGuoDeHaiZi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1431YongYouZuiDuoTangGuoDeHaiZi-701857e9877e2973a76a.json",
+					"name" : "1431YongYouZuiDuoTangGuoDeHaiZi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "150NiBolanBiaoDaShiQiuZhi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-150NiBolanBiaoDaShiQiuZhi-2a3fe487261ba25ea840.json",
+					"name" : "150NiBolanBiaoDaShiQiuZhi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "151FanZhuanZiFuChuanZhongDeDanCi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-151FanZhuanZiFuChuanZhongDeDanCi-70db5fa9cb20369b46ff.json",
+					"name" : "151FanZhuanZiFuChuanZhongDeDanCi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "15SanShuZhihe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-15SanShuZhihe-b8a3007704d6256bdb84.json",
+					"name" : "15SanShuZhihe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1768JiaoTiHeBingZiFuChuan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1768JiaoTiHeBingZiFuChuan-17c3b77cdbe20ee2661d.json",
+					"name" : "1768JiaoTiHeBingZiFuChuan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "18SiShuZhiHe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-18SiShuZhiHe-de86b346c06e1e190bfc.json",
+					"name" : "18SiShuZhiHe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "19ShanChuLianBiaoDeDaoShuDiNGeJieDian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-19ShanChuLianBiaoDeDaoShuDiNGeJieDian-a2994063113ca36639d3.json",
+					"name" : "19ShanChuLianBiaoDeDaoShuDiNGeJieDian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1LiangShuZhiHe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1LiangShuZhiHe-b366629ac8dd497c81d0.json",
+					"name" : "1LiangShuZhiHe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "203YiChuLianBiaoYuansu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-203YiChuLianBiaoYuansu-e1821081ba3006526e2e.json",
+					"name" : "203YiChuLianBiaoYuansu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "209ChangDuZuiXiaoDeZiShuZu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-209ChangDuZuiXiaoDeZiShuZu-e3ac3f6f0718094de4f3.json",
+					"name" : "209ChangDuZuiXiaoDeZiShuZu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "20YouXiaoDeKuoHao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-20YouXiaoDeKuoHao-ff558c809a779337e49c.json",
+					"name" : "20YouXiaoDeKuoHao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "21HeBingLiangGeYouXuLianBiao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-21HeBingLiangGeYouXuLianBiao-9b091880e45dce38493f.json",
+					"name" : "21HeBingLiangGeYouXuLianBiao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "222WanQuanErChaShuDeJieDianGeShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-222WanQuanErChaShuDeJieDianGeShu-afb3b60972384ea6ffa4.json",
+					"name" : "222WanQuanErChaShuDeJieDianGeShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "225YongDuiLieShiXianZhan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-225YongDuiLieShiXianZhan-cc0e824aeae7ad362102.json",
+					"name" : "225YongDuiLieShiXianZhan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "226FanZhuanErChaShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-226FanZhuanErChaShu-6a38d9a5cc1eec683a68.json",
+					"name" : "226FanZhuanErChaShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "232YongZhanShiXianDuiLie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-232YongZhanShiXianDuiLie-ba07e677e46f03343acf.json",
+					"name" : "232YongZhanShiXianDuiLie",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "239HuaDongChuangKouDeZuiDaZhi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-239HuaDongChuangKouDeZuiDaZhi-12d539781e8b2188eb27.json",
+					"name" : "239HuaDongChuangKouDeZuiDaZhi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "242YouXiaoDeZiMuYiWeiCi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-242YouXiaoDeZiMuYiWeiCi-78f078dff517ce5f4e72.json",
+					"name" : "242YouXiaoDeZiMuYiWeiCi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "24LiangLiangJiaoHuanLianBiaoZhongDeJieDian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-24LiangLiangJiaoHuanLianBiaoZhongDeJieDian-050d3cbd47f9f813c829.json",
+					"name" : "24LiangLiangJiaoHuanLianBiaoZhongDeJieDian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "257ErChaShuDeSuoYouLuJing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-257ErChaShuDeSuoYouLuJing-df2cdc22f2c3fccb1a41.json",
+					"name" : "257ErChaShuDeSuoYouLuJing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "26ShanChuYouXuShuZuZhongDeChongFuXiang::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-26ShanChuYouXuShuZuZhongDeChongFuXiang-677d1f947e532e4ea259.json",
+					"name" : "26ShanChuYouXuShuZuZhongDeChongFuXiang",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "27YiChuYuanSu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-27YiChuYuanSu-ee51fb8228f4c3abcfe7.json",
+					"name" : "27YiChuYuanSu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2815ShuZuZhongDeZuiDaShuDuiHe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2815ShuZuZhongDeZuiDaShuDuiHe-13cea8659c0fdcc14a3f.json",
+					"name" : "2815ShuZuZhongDeZuiDaShuDuiHe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "283YiDongLing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-283YiDongLing-f4db87ad31207687566f.json",
+					"name" : "283YiDongLing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2859JiSuanKZhiWeiXiaBiaoDuiYingYuanSuDeHe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2859JiSuanKZhiWeiXiaBiaoDuiYingYuanSuDeHe-3f0b9ac9a06c9d7b4db2.json",
+					"name" : "2859JiSuanKZhiWeiXiaBiaoDuiYingYuanSuDeHe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "28ZhaoChuZiFuChuanZhongDiYiGePiPeiXiangDeXiaBiao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-28ZhaoChuZiFuChuanZhongDiYiGePiPeiXiangDeXiaBiao-fd1b2f21bfb3dceacb41.json",
+					"name" : "28ZhaoChuZiFuChuanZhongDiYiGePiPeiXiangDeXiaBiao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2LiangshuXiangjia::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2LiangshuXiangjia-f74e8ed1af43666457a8.json",
+					"name" : "2LiangshuXiangjia",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "347QianKGeGaoPinYuanSu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-347QianKGeGaoPinYuanSu-083febdbc360ffcf5a9f.json",
+					"name" : "347QianKGeGaoPinYuanSu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "349LiangGeShuZuDeJiaoJi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-349LiangGeShuZuDeJiaoJi-1af971c9290f2f798134.json",
+					"name" : "349LiangGeShuZuDeJiaoJi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "383ShuJinXIn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-383ShuJinXIn-f97dc3f940a1c70d934c.json",
+					"name" : "383ShuJinXIn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "389ZhaoBuTong::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-389ZhaoBuTong-eb963619741ee056ff6e.json",
+					"name" : "389ZhaoBuTong",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3WuChongFuZiFuDeZuiChangZiChuan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3WuChongFuZiFuDeZuiChangZiChuan-7907a37b1b1ac9737ec7.json",
+					"name" : "3WuChongFuZiFuDeZuiChangZiChuan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "404ZuoYeZiZhiHe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-404ZuoYeZiZhiHe-ea51b4593d0d929bde6c.json",
+					"name" : "404ZuoYeZiZhiHe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "415ZiFuChuanXiangJia::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-415ZiFuChuanXiangJia-377c9b7572bd7ef0cbb2.json",
+					"name" : "415ZiFuChuanXiangJia",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "429NChaShuDeCengXuBIanLi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-429NChaShuDeCengXuBIanLi-33cdd6f29c4f5a186866.json",
+					"name" : "429NChaShuDeCengXuBIanLi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "43ZiFuChuanXiangCheng::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-43ZiFuChuanXiangCheng-8e0b60197cd69bae7ee3.json",
+					"name" : "43ZiFuChuanXiangCheng",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "445LiangShuXiangJiaII::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-445LiangShuXiangJiaII-42b50d1b9a741624ce32.json",
+					"name" : "445LiangShuXiangJiaII",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "454SiShuXiangJiaII::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-454SiShuXiangJiaII-c62ce4d6dedc394af235.json",
+					"name" : "454SiShuXiangJiaII",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "459ChongFuDeZiZiFuChuan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-459ChongFuDeZiZiFuChuan-2185c7d3f2edb8c6b129.json",
+					"name" : "459ChongFuDeZiZiFuChuan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "501ErChaSouSuoShuZhongDeZhongShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-501ErChaSouSuoShuZhongDeZhongShu-c53c20fb4e3cdfde552f.json",
+					"name" : "501ErChaSouSuoShuZhongDeZhongShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "50KuaiSuMi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-50KuaiSuMi-9c2d0b1a3ba29125876e.json",
+					"name" : "50KuaiSuMi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "541FanZhuanZiFuChuanII::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-541FanZhuanZiFuChuanII-3e4ff7a7e2fd3f3db15c.json",
+					"name" : "541FanZhuanZiFuChuanII",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "54LuoXuanJuZhen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-54LuoXuanJuZhen-ae6539a75276a76b030b.json",
+					"name" : "54LuoXuanJuZhen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "59LuoXuanJuZhen2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-59LuoXuanJuZhen2-b7587e8e0c4195678031.json",
+					"name" : "59LuoXuanJuZhen2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "605ZhongHuaWenTi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-605ZhongHuaWenTi-51f2b32a93e657c0afa2.json",
+					"name" : "605ZhongHuaWenTi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "617HeBingLiangGeErChaShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-617HeBingLiangGeErChaShu-5e3451b1f7a42f05e879.json",
+					"name" : "617HeBingLiangGeErChaShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "654ZuiDaErChaShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-654ZuiDaErChaShu-efbc09fa257faefa0288.json",
+					"name" : "654ZuiDaErChaShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "66JiaYi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-66JiaYi-daf3b62071f77d6a943b.json",
+					"name" : "66JiaYi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "67ErJinZhiQiuHe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-67ErJinZhiQiuHe-871f7c16834e7a2951ee.json",
+					"name" : "67ErJinZhiQiuHe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "700ErChaSouSuoShuZhongDeSouSuo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-700ErChaSouSuoShuZhongDeSouSuo-cb2cd7aca7e50e15924d.json",
+					"name" : "700ErChaSouSuoShuZhongDeSouSuo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "704ErFenChaZhao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-704ErFenChaZhao-8da7775051df318f26ff.json",
+					"name" : "704ErFenChaZhao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "707SheJiLianBiao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-707SheJiLianBiao-dd9022a442cadda76f40.json",
+					"name" : "707SheJiLianBiao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "709ZhuanHuanChengXiaoXieZiMu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-709ZhuanHuanChengXiaoXieZiMu-0af24480bee2017f0aa9.json",
+					"name" : "709ZhuanHuanChengXiaoXieZiMu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "72BianJiJuli::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-72BianJiJuli-2884bf8bc32a1ad0e598.json",
+					"name" : "72BianJiJuli",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "73JuZhenZhiLing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-73JuZhenZhiLing-d312d1363a2d6840810a.json",
+					"name" : "73JuZhenZhiLing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "77ZuHe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-77ZuHe-da0d06e4b123c3cf1612.json",
+					"name" : "77ZuHe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "860NingMengShuiZhaoLing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-860NingMengShuiZhaoLing-4ca288ac2b82a13e8c5c.json",
+					"name" : "860NingMengShuiZhaoLing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "88HeBingLiangGeYouXuShuZu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-88HeBingLiangGeYouXuShuZu-dcdeed9e8fd7fef6633a.json",
+					"name" : "88HeBingLiangGeYouXuShuZu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "977YouXuShuZuDePingFang::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-977YouXuShuZuDePingFang-1be18bdcfce4584cae18.json",
+					"name" : "977YouXuShuZuDePingFang",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "98YanZhengErChaSouSuoShu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-98YanZhengErChaSouSuoShu-c56f513281ba833ab193.json",
+					"name" : "98YanZhengErChaSouSuoShu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JiaoTiHeBingZiFuChuan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JiaoTiHeBingZiFuChuan-3e1e480cbe8208643e98.json",
+					"name" : "JiaoTiHeBingZiFuChuan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KMP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KMP-c141482880624adb7456.json",
+					"name" : "KMP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LCR024FanZhuanLianBiao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LCR024FanZhuanLianBiao-0f1f1ade6c704cf3c84d.json",
+					"name" : "LCR024FanZhuanLianBiao",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
+		"source" : "/home/kemove/vscode_workspace/LeetcodePracticeC++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

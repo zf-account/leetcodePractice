@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/617HeBingLiangGeErChaShu.dir/src/617HeBingLiangGeErChaShu.cpp.o -o 617HeBingLiangGeErChaShu 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/617HeBingLiangGeErChaShu.dir/src/617HeBingLiangGeErChaShu.cpp.o -o 617HeBingLiangGeErChaShu 

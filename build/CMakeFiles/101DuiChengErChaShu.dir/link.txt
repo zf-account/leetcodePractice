@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/101DuiChengErChaShu.dir/src/101DuiChengErChaShu.cpp.o -o 101DuiChengErChaShu 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/101DuiChengErChaShu.dir/src/101DuiChengErChaShu.cpp.o -o 101DuiChengErChaShu 

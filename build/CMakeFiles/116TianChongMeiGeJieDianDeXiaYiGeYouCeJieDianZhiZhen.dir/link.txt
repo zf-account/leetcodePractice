@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/116TianChongMeiGeJieDianDeXiaYiGeYouCeJieDianZhiZhen.dir/src/116TianChongMeiGeJieDianDeXiaYiGeYouCeJieDianZhiZhen.cpp.o -o 116TianChongMeiGeJieDianDeXiaYiGeYouCeJieDianZhiZhen 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/116TianChongMeiGeJieDianDeXiaYiGeYouCeJieDianZhiZhen.dir/src/116TianChongMeiGeJieDianDeXiaYiGeYouCeJieDianZhiZhen.cpp.o -o 116TianChongMeiGeJieDianDeXiaYiGeYouCeJieDianZhiZhen 

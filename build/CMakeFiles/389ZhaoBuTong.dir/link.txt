@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/389ZhaoBuTong.dir/src/389ZhaoBuTong.cpp.o -o 389ZhaoBuTong 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/389ZhaoBuTong.dir/src/389ZhaoBuTong.cpp.o -o 389ZhaoBuTong 

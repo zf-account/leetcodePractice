@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/26ShanChuYouXuShuZuZhongDeChongFuXiang.dir/src/26ShanChuYouXuShuZuZhongDeChongFuXiang.cpp.o -o 26ShanChuYouXuShuZuZhongDeChongFuXiang 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/26ShanChuYouXuShuZuZhongDeChongFuXiang.dir/src/26ShanChuYouXuShuZuZhongDeChongFuXiang.cpp.o -o 26ShanChuYouXuShuZuZhongDeChongFuXiang 

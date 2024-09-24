@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/349LiangGeShuZuDeJiaoJi.dir/src/349LiangGeShuZuDeJiaoJi.cpp.o -o 349LiangGeShuZuDeJiaoJi 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/349LiangGeShuZuDeJiaoJi.dir/src/349LiangGeShuZuDeJiaoJi.cpp.o -o 349LiangGeShuZuDeJiaoJi 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/66JiaYi.dir/src/66JiaYi.cpp.o -o 66JiaYi 
+/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/66JiaYi.dir/src/66JiaYi.cpp.o -o 66JiaYi 

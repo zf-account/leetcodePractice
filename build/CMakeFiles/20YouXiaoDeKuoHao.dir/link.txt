@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/20YouXiaoDeKuoHao.dir/src/20YouXiaoDeKuoHao.cpp.o -o 20YouXiaoDeKuoHao 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/20YouXiaoDeKuoHao.dir/src/20YouXiaoDeKuoHao.cpp.o -o 20YouXiaoDeKuoHao 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/704ErFenChaZhao.dir/src/704ErFenChaZhao.cpp.o -o 704ErFenChaZhao 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/704ErFenChaZhao.dir/src/704ErFenChaZhao.cpp.o -o 704ErFenChaZhao 

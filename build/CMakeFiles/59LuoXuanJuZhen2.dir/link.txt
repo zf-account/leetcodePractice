@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/59LuoXuanJuZhen2.dir/src/59LuoXuanJuZhen2.cpp.o -o 59LuoXuanJuZhen2 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/59LuoXuanJuZhen2.dir/src/59LuoXuanJuZhen2.cpp.o -o 59LuoXuanJuZhen2 

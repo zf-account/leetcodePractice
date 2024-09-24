@@ -42,6 +42,7 @@
 /home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles/349LiangGeShuZuDeJiaoJi.dir
 /home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles/383ShuJinXIn.dir
 /home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles/389ZhaoBuTong.dir
+/home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles/39ZuheZongHe.dir
 /home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles/3WuChongFuZiFuDeZuiChangZiChuan.dir
 /home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles/404ZuoYeZiZhiHe.dir
 /home/kemove/vscode_workspace/LeetcodePracticeC++/build/CMakeFiles/415ZiFuChuanXiangJia.dir

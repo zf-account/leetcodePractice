@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/225YongDuiLieShiXianZhan.dir/src/225YongDuiLieShiXianZhan.cpp.o -o 225YongDuiLieShiXianZhan 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/225YongDuiLieShiXianZhan.dir/src/225YongDuiLieShiXianZhan.cpp.o -o 225YongDuiLieShiXianZhan 

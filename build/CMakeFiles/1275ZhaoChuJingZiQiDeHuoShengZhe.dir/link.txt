@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/1275ZhaoChuJingZiQiDeHuoShengZhe.dir/src/1275ZhaoChuJingZiQiDeHuoShengZhe.cpp.o -o 1275ZhaoChuJingZiQiDeHuoShengZhe 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/1275ZhaoChuJingZiQiDeHuoShengZhe.dir/src/1275ZhaoChuJingZiQiDeHuoShengZhe.cpp.o -o 1275ZhaoChuJingZiQiDeHuoShengZhe 

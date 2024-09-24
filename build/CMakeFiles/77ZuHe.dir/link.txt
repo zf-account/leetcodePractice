@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/77ZuHe.dir/src/77ZuHe.cpp.o -o 77ZuHe 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/77ZuHe.dir/src/77ZuHe.cpp.o -o 77ZuHe 

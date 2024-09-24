@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/283YiDongLing.dir/src/283YiDongLing.cpp.o -o 283YiDongLing 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/283YiDongLing.dir/src/283YiDongLing.cpp.o -o 283YiDongLing 

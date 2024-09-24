@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/445LiangShuXiangJiaII.dir/src/445LiangShuXiangJiaII.cpp.o -o 445LiangShuXiangJiaII 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/445LiangShuXiangJiaII.dir/src/445LiangShuXiangJiaII.cpp.o -o 445LiangShuXiangJiaII 

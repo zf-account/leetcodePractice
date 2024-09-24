@@ -689,6 +689,19 @@ depend:
 .PHONY : 389ZhaoBuTong/fast
 
 #=============================================================================
+# Target rules for targets named 39ZuheZongHe
+
+# Build rule for target.
+39ZuheZongHe: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 39ZuheZongHe
+.PHONY : 39ZuheZongHe
+
+# fast build rule for target.
+39ZuheZongHe/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/39ZuheZongHe.dir/build.make CMakeFiles/39ZuheZongHe.dir/build
+.PHONY : 39ZuheZongHe/fast
+
+#=============================================================================
 # Target rules for targets named 3WuChongFuZiFuDeZuiChangZiChuan
 
 # Build rule for target.
@@ -2160,6 +2173,30 @@ src/389ZhaoBuTong.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/389ZhaoBuTong.dir/build.make CMakeFiles/389ZhaoBuTong.dir/src/389ZhaoBuTong.cpp.s
 .PHONY : src/389ZhaoBuTong.cpp.s
 
+src/39ZuheZongHe.o: src/39ZuheZongHe.cpp.o
+.PHONY : src/39ZuheZongHe.o
+
+# target to build an object file
+src/39ZuheZongHe.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/39ZuheZongHe.dir/build.make CMakeFiles/39ZuheZongHe.dir/src/39ZuheZongHe.cpp.o
+.PHONY : src/39ZuheZongHe.cpp.o
+
+src/39ZuheZongHe.i: src/39ZuheZongHe.cpp.i
+.PHONY : src/39ZuheZongHe.i
+
+# target to preprocess a source file
+src/39ZuheZongHe.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/39ZuheZongHe.dir/build.make CMakeFiles/39ZuheZongHe.dir/src/39ZuheZongHe.cpp.i
+.PHONY : src/39ZuheZongHe.cpp.i
+
+src/39ZuheZongHe.s: src/39ZuheZongHe.cpp.s
+.PHONY : src/39ZuheZongHe.s
+
+# target to generate assembly for a file
+src/39ZuheZongHe.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/39ZuheZongHe.dir/build.make CMakeFiles/39ZuheZongHe.dir/src/39ZuheZongHe.cpp.s
+.PHONY : src/39ZuheZongHe.cpp.s
+
 src/3WuChongFuZiFuDeZuiChangZiChuan.o: src/3WuChongFuZiFuDeZuiChangZiChuan.cpp.o
 .PHONY : src/3WuChongFuZiFuDeZuiChangZiChuan.o
 
@@ -2980,6 +3017,7 @@ help:
 	@echo "... 349LiangGeShuZuDeJiaoJi"
 	@echo "... 383ShuJinXIn"
 	@echo "... 389ZhaoBuTong"
+	@echo "... 39ZuheZongHe"
 	@echo "... 3WuChongFuZiFuDeZuiChangZiChuan"
 	@echo "... 404ZuoYeZiZhiHe"
 	@echo "... 415ZiFuChuanXiangJia"
@@ -3144,6 +3182,9 @@ help:
 	@echo "... src/389ZhaoBuTong.o"
 	@echo "... src/389ZhaoBuTong.i"
 	@echo "... src/389ZhaoBuTong.s"
+	@echo "... src/39ZuheZongHe.o"
+	@echo "... src/39ZuheZongHe.i"
+	@echo "... src/39ZuheZongHe.s"
 	@echo "... src/3WuChongFuZiFuDeZuiChangZiChuan.o"
 	@echo "... src/3WuChongFuZiFuDeZuiChangZiChuan.i"
 	@echo "... src/3WuChongFuZiFuDeZuiChangZiChuan.s"

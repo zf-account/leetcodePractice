@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/88HeBingLiangGeYouXuShuZu.dir/src/88HeBingLiangGeYouXuShuZu.cpp.o -o 88HeBingLiangGeYouXuShuZu 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/88HeBingLiangGeYouXuShuZu.dir/src/88HeBingLiangGeYouXuShuZu.cpp.o -o 88HeBingLiangGeYouXuShuZu 

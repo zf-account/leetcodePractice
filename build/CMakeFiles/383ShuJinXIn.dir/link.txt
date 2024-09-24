@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/383ShuJinXIn.dir/src/383ShuJinXIn.cpp.o -o 383ShuJinXIn 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/383ShuJinXIn.dir/src/383ShuJinXIn.cpp.o -o 383ShuJinXIn 

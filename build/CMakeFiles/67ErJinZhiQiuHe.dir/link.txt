@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/67ErJinZhiQiuHe.dir/src/67ErJinZhiQiuHe.cpp.o -o 67ErJinZhiQiuHe 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/67ErJinZhiQiuHe.dir/src/67ErJinZhiQiuHe.cpp.o -o 67ErJinZhiQiuHe 

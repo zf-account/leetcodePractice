@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/700ErChaSouSuoShuZhongDeSouSuo.dir/src/700ErChaSouSuoShuZhongDeSouSuo.cpp.o -o 700ErChaSouSuoShuZhongDeSouSuo 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/700ErChaSouSuoShuZhongDeSouSuo.dir/src/700ErChaSouSuoShuZhongDeSouSuo.cpp.o -o 700ErChaSouSuoShuZhongDeSouSuo 

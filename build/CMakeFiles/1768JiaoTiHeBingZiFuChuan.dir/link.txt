@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/1768JiaoTiHeBingZiFuChuan.dir/src/1768JiaoTiHeBingZiFuChuan.cpp.o -o 1768JiaoTiHeBingZiFuChuan 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/1768JiaoTiHeBingZiFuChuan.dir/src/1768JiaoTiHeBingZiFuChuan.cpp.o -o 1768JiaoTiHeBingZiFuChuan 

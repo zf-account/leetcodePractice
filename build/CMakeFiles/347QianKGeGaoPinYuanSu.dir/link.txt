@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/347QianKGeGaoPinYuanSu.dir/src/347QianKGeGaoPinYuanSu.cpp.o -o 347QianKGeGaoPinYuanSu 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/347QianKGeGaoPinYuanSu.dir/src/347QianKGeGaoPinYuanSu.cpp.o -o 347QianKGeGaoPinYuanSu 

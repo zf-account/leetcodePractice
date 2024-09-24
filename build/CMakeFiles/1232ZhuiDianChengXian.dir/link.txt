@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/1232ZhuiDianChengXian.dir/src/1232ZhuiDianChengXian.cpp.o -o 1232ZhuiDianChengXian 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/1232ZhuiDianChengXian.dir/src/1232ZhuiDianChengXian.cpp.o -o 1232ZhuiDianChengXian 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/1071ZiFuChuanZuiDaGongYueShu.dir/src/1071ZiFuChuanZuiDaGongYueShu.cpp.o -o 1071ZiFuChuanZuiDaGongYueShu 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/1071ZiFuChuanZuiDaGongYueShu.dir/src/1071ZiFuChuanZuiDaGongYueShu.cpp.o -o 1071ZiFuChuanZuiDaGongYueShu 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/2859JiSuanKZhiWeiXiaBiaoDuiYingYuanSuDeHe.dir/src/2859JiSuanKZhiWeiXiaBiaoDuiYingYuanSuDeHe.cpp.o -o 2859JiSuanKZhiWeiXiaBiaoDuiYingYuanSuDeHe 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/2859JiSuanKZhiWeiXiaBiaoDuiYingYuanSuDeHe.dir/src/2859JiSuanKZhiWeiXiaBiaoDuiYingYuanSuDeHe.cpp.o -o 2859JiSuanKZhiWeiXiaBiaoDuiYingYuanSuDeHe 

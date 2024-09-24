@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wextra -pedantic CMakeFiles/209ChangDuZuiXiaoDeZiShuZu.dir/src/209ChangDuZuiXiaoDeZiShuZu.cpp.o -o 209ChangDuZuiXiaoDeZiShuZu 
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/209ChangDuZuiXiaoDeZiShuZu.dir/src/209ChangDuZuiXiaoDeZiShuZu.cpp.o -o 209ChangDuZuiXiaoDeZiShuZu 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/1694ChongXinGeShiHuaDianHuaHaoMa.dir/src/1694ChongXinGeShiHuaDianHuaHaoMa.cpp.o -o 1694ChongXinGeShiHuaDianHuaHaoMa 

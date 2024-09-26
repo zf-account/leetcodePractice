@@ -56,6 +56,11 @@
 },
 {
   "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/131FenGeHuiWenChuan.dir/src/131FenGeHuiWenChuan.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/131FenGeHuiWenChuan.cpp",
+  "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/131FenGeHuiWenChuan.cpp"
+},
+{
+  "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
   "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/13LuoMaShuZiZhuanZhengShu.dir/src/13LuoMaShuZiZhuanZhengShu.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/13LuoMaShuZiZhuanZhengShu.cpp",
   "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/13LuoMaShuZiZhuanZhengShu.cpp"
 },
@@ -86,8 +91,18 @@
 },
 {
   "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/1694ChongXinGeShiHuaDianHuaHaoMa.dir/src/1694ChongXinGeShiHuaDianHuaHaoMa.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/1694ChongXinGeShiHuaDianHuaHaoMa.cpp",
+  "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/1694ChongXinGeShiHuaDianHuaHaoMa.cpp"
+},
+{
+  "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
   "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/1768JiaoTiHeBingZiFuChuan.dir/src/1768JiaoTiHeBingZiFuChuan.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/1768JiaoTiHeBingZiFuChuan.cpp",
   "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/1768JiaoTiHeBingZiFuChuan.cpp"
+},
+{
+  "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/17DianHuaHaoMaDeZiMuZuHe.dir/src/17DianHuaHaoMaDeZiMuZuHe.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/17DianHuaHaoMaDeZiMuZuHe.cpp",
+  "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/17DianHuaHaoMaDeZiMuZuHe.cpp"
 },
 {
   "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
@@ -118,6 +133,11 @@
   "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
   "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/20YouXiaoDeKuoHao.dir/src/20YouXiaoDeKuoHao.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/20YouXiaoDeKuoHao.cpp",
   "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/20YouXiaoDeKuoHao.cpp"
+},
+{
+  "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/216ZuHeZongHeIII.dir/src/216ZuHeZongHeIII.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/216ZuHeZongHeIII.cpp",
+  "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/216ZuHeZongHeIII.cpp"
 },
 {
   "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
@@ -236,6 +256,11 @@
 },
 {
   "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/40ZuHeZongHeII.dir/src/40ZuHeZongHeII.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/40ZuHeZongHeII.cpp",
+  "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/40ZuHeZongHeII.cpp"
+},
+{
+  "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
   "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/415ZiFuChuanXiangJia.dir/src/415ZiFuChuanXiangJia.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/415ZiFuChuanXiangJia.cpp",
   "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/415ZiFuChuanXiangJia.cpp"
 },
@@ -351,6 +376,11 @@
 },
 {
   "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/78ZiJi.dir/src/78ZiJi.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/78ZiJi.cpp",
+  "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/78ZiJi.cpp"
+},
+{
+  "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
   "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/860NingMengShuiZhaoLing.dir/src/860NingMengShuiZhaoLing.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/860NingMengShuiZhaoLing.cpp",
   "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/860NingMengShuiZhaoLing.cpp"
 },
@@ -358,6 +388,16 @@
   "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
   "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/88HeBingLiangGeYouXuShuZu.dir/src/88HeBingLiangGeYouXuShuZu.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/88HeBingLiangGeYouXuShuZu.cpp",
   "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/88HeBingLiangGeYouXuShuZu.cpp"
+},
+{
+  "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/90ZiJiII.dir/src/90ZiJiII.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/90ZiJiII.cpp",
+  "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/90ZiJiII.cpp"
+},
+{
+  "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic -g -std=gnu++20 -o CMakeFiles/93FuYuanIPDiZhi.dir/src/93FuYuanIPDiZhi.cpp.o -c /home/kemove/vscode_workspace/LeetcodePracticeC++/src/93FuYuanIPDiZhi.cpp",
+  "file": "/home/kemove/vscode_workspace/LeetcodePracticeC++/src/93FuYuanIPDiZhi.cpp"
 },
 {
   "directory": "/home/kemove/vscode_workspace/LeetcodePracticeC++/build",

@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/541FanZhuanZiFuChuanII.dir/src/541FanZhuanZiFuChuanII.cpp.o -o 541FanZhuanZiFuChuanII 

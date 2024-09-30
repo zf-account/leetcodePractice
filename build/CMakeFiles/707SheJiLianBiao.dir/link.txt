@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/707SheJiLianBiao.dir/src/707SheJiLianBiao.cpp.o -o 707SheJiLianBiao 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/28ZhaoChuZiFuChuanZhongDiYiGePiPeiXiangDeXiaBiao.dir/src/28ZhaoChuZiFuChuanZhongDiYiGePiPeiXiangDeXiaBiao.cpp.o -o 28ZhaoChuZiFuChuanZhongDiYiGePiPeiXiangDeXiaBiao 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/257ErChaShuDeSuoYouLuJing.dir/src/257ErChaShuDeSuoYouLuJing.cpp.o -o 257ErChaShuDeSuoYouLuJing 

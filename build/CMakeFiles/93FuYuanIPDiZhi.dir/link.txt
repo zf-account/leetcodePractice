@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/93FuYuanIPDiZhi.dir/src/93FuYuanIPDiZhi.cpp.o -o 93FuYuanIPDiZhi 

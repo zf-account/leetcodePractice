@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/98YanZhengErChaSouSuoShu.dir/src/98YanZhengErChaSouSuoShu.cpp.o -o 98YanZhengErChaSouSuoShu 

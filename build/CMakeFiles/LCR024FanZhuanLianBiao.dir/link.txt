@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/LCR024FanZhuanLianBiao.dir/src/LCR024FanZhuanLianBiao.cpp.o -o LCR024FanZhuanLianBiao 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/151FanZhuanZiFuChuanZhongDeDanCi.dir/src/151FanZhuanZiFuChuanZhongDeDanCi.cpp.o -o 151FanZhuanZiFuChuanZhongDeDanCi 

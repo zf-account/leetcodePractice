@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/216ZuHeZongHeIII.dir/src/216ZuHeZongHeIII.cpp.o -o 216ZuHeZongHeIII 

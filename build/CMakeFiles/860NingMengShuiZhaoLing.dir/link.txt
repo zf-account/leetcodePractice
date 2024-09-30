@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/860NingMengShuiZhaoLing.dir/src/860NingMengShuiZhaoLing.cpp.o -o 860NingMengShuiZhaoLing 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/2LiangshuXiangjia.dir/src/2LiangshuXiangjia.cpp.o -o 2LiangshuXiangjia 

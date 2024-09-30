@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/78ZiJi.dir/src/78ZiJi.cpp.o -o 78ZiJi 

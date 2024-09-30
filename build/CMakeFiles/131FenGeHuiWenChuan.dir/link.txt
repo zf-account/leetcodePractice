@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic -g CMakeFiles/131FenGeHuiWenChuan.dir/src/131FenGeHuiWenChuan.cpp.o -o 131FenGeHuiWenChuan 

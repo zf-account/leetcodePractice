@@ -10,7 +10,7 @@ private:
 public:
     bool isValid(int row, int col, vector<string> &chessboard, int n)
     {
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < row; i++)//注意这里i<row是一个剪枝操作，而不是i<n
         { // 检查列
             if (chessboard[i][col] == 'Q')
             {
@@ -45,7 +45,7 @@ public:
             result.push_back(chessboard);
             return;
         }
-        for (int col = 0; col < n; col++)
+        for (int col = 0; col < n; col++) //注意这里迭代的每一行，每一行从0开始
         {
             if (isValid(row, col, chessboard, n))
             {

@@ -73,7 +73,7 @@ public:
     }
 };
 
-int main(int argc, char const *argv[])
+int main(int argc, char *argv[])
 {
     string s = "1010235234";
     Solution solution;

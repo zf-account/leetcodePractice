@@ -5,17 +5,19 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "g++ - 生成和调试活动文件",  // 该调试任务的名字，启动调试时会在待选列表中显示
+            "name": "g++ - debug",  // 该调试任务的名字，启动调试时会在待选列表中显示
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}\\build\\${fileBasenameNoExtension}",
             "args": [],
-            "stopAtEntry": true,  // 这一项控制是否在入口处暂停，默认false不暂停，改为true暂停
+            "stopAtEntry": false,  // 这一项控制是否在入口处暂停，默认false不暂停，改为true暂停
             "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,  // 这一项控制是否启动外部控制台（独立的黑框）运行程序，默认false表示在集成终端中运行
-            "MIMode": "gdb",
-            "miDebuggerPath": "/usr/bin/gdb",  // 调试器路径，必须与你自己的电脑相符
+            "MIMode": "lldb",
+            // "MIMode": "gdb",
+            // "miDebuggerPath": "/usr/bin/gdb",  // 调试器路径，必须与你自己的电脑相符
+            // "miDebuggerPath": "/opt/homebrew/bin/gdb",
             "setupCommands": [
                 {
                     "description": "为 gdb 启用整齐打印",

@@ -1,5 +1,4 @@
 #include <vector>
-#include <string>
 #include <iostream>
 
 using namespace std;
@@ -41,6 +40,6 @@ int main()
     vector<int> result = su.rearrangeArray(nums);
     for (int i = 0; i < result.size(); i++)
     {
-        std::cout << result[i] << std::endl;
+        std::cout << result[i] << ' ';
     }
 }

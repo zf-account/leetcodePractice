@@ -22,7 +22,7 @@ endif()
 # add_executable(${13_PROJECT_NAME} ${13_PROJECT_SOURCES})
 
 # 递归查找 src 目录下的所有.cpp 文件
-file(GLOB SRC_FILES1 "src/*.cpp" "src/SuanFaYuanLi/*.cpp")
+file(GLOB SRC_FILES1 "src/leetcode/*.cpp" "src/algorithmPrinciple/*.cpp" "src/dataStruct/*.cpp")
 # file(GLOB SRC_FILES2 "src/SuanFaYuanLi/*.cpp")
 
 # 遍历每个.cpp 文件进行单独编译

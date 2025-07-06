@@ -1,5 +1,7 @@
 """题目描述
 用python写一个快排并给出时间复杂度
+时间复杂度: O(nlogn)
+空间复杂度: O(logn)
 """
 
 def quick_sort(arr):

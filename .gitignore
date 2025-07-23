@@ -2,3 +2,4 @@
 build/
 CMakeFiles/
 .vscode/
+interview/test.py
